@@ -101,20 +101,30 @@
 // }
 
 //Третє завдання з допів
-let color = prompt("Якого кольору світлофор?")
-let isRoadClear = window.confirm("Дорога без машин?")
-switch (color){
-    case "Зелений":
-        if(isRoadClear){
-            console.log('Йди!');
-        } else console.log('Почекай поки проїдуть і йди!');
-        break;
-    case "Жовтий":
-        isRoadClear ? console.log('Всеодно чекай') : console.log('Чекай')
-        break;
-    case "Червоний":
-        isRoadClear ? console.log('Всеодно стій') : console.log('Стій')
-        break;
-    default:
-        console.log('Роби що хочеш');
+// let color = prompt("Якого кольору світлофор?")
+// let isRoadClear = window.confirm("Дорога без машин?")
+// switch (color){
+//     case "Зелений":
+//         if(isRoadClear){
+//             console.log('Йди!');
+//         } else console.log('Почекай поки проїдуть і йди!');
+//         break;
+//     case "Жовтий":
+//         isRoadClear ? console.log('Всеодно чекай') : console.log('Чекай')
+//         break;
+//     case "Червоний":
+//         isRoadClear ? console.log('Всеодно стій') : console.log('Стій')
+//         break;
+//     default:
+//         console.log('Роби що хочеш');
+// }
+
+let a = prompt("Numder");
+let b = prompt("Numder");
+let c = prompt("Numder");
+
+if(a > b && a > c && b > c){
+    console.log(`${c}` `${b}` `${a}`)
+} else if(a > b && a > c && c > b){
+    console.log(`${b}` `${c}` `${a}`)
 }
