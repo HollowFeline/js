@@ -5,7 +5,7 @@ numbers[2] = 33;
 for(const number of numbers){
     console.log(number);
 }
-
+//*********************************************************************************************
 let mass = [13, 'qwerty', true, 'Alex', 44 , 0 , false, 'sho'];
 
 for(const mas of mass){
@@ -21,7 +21,7 @@ console.log('------------')
 for(const mas of mass){
     if(typeof mas === "boolean" && mas)  console.log(mas)
 }
-
+//*********************************************************************************************
 let mass = [];
 for(let i = 0; i < 100; i++){
     mass.push(i + 1);
@@ -40,7 +40,7 @@ console.log('------------')
 for(let mas in mass){
     if(mas % 3 === 0) console.log(mas)
 }
-
+//*********************************************************************************************
 let mass = ['js', 'css', 'jq'];
 
 let value = mass.shift();
@@ -102,7 +102,7 @@ for(let i = 0; i < numbers.length; i++){
 for(let number of cNumbers){
     console.log(number)
 }
-
+//***************З цьої частини домашки робив тільки деякі такски******************************
 let numbers = [2,17,13,6,22,31,45,66,100,-18];
 let i = 0;
 while(i < numbers.length){
@@ -150,8 +150,7 @@ while(numbers.length < 50){
 for(let number of numbers){
     console.log(number)
 }
-
-
+//*********************************************************************************************
 let numbers = [];
 for(let i = 0; i < 20; i++){
     numbers.push(Math.round(Math.random()*100));
@@ -166,12 +165,12 @@ for(let i = 0; i < 20; i++){
 for(let number of numbers){
     console.log(number)
 }
-
+//*********************************************************************************************
 let numbers = [ 1, 2, 3, 5, 7, 9, 56, 8, 67 ];
 for(let i = 0; i < numbers.length; i++){
     if(numbers[i + 1] % 2 === 0) console.log(numbers[i])
 }
-
+//*********************************************************************************************
 let numbers = [100,250,50,168,120,345,188];
 let sum = 0;
 
@@ -179,7 +178,7 @@ for(let number of numbers){
     sum = sum + number;
 }
 console.log(sum/2);
-
+//*********************************************************************************************v
 let numbers = [];
 let newNumbers = [];
 for(let i = 0; i < 10; i++){
@@ -192,7 +191,7 @@ for(let number of numbers){
 for(let number of newNumbers){
     console.log(number)
 }
-
+//*********************************************************************************************
 let letters = [ 'a', 'b', 'c'];
 let word = '';
 
@@ -210,4 +209,3 @@ for(let letter of letters){
 }
 
 console.log(word);
-

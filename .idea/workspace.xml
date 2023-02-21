@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a5dd876-4a49-4cf3-9c87-9bd21eb837fb" name="Changes" comment="add task1">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="1a5dd876-4a49-4cf3-9c87-9bd21eb837fb" name="Changes" comment="remove // in js2.js">
+      <change beforePath="$PROJECT_DIR$/lesson2/js2.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/js2.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,6 +74,7 @@
       <updated>1676754000917</updated>
       <workItem from="1676754002132" duration="9197000" />
       <workItem from="1676976465576" duration="7520000" />
+      <workItem from="1676984136860" duration="459000" />
     </task>
     <task id="LOCAL-00001" summary="add task1">
       <created>1676764420717</created>
@@ -82,7 +83,21 @@
       <option name="project" value="LOCAL" />
       <updated>1676764420717</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add homework2">
+      <created>1676984214237</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1676984214237</updated>
+    </task>
+    <task id="LOCAL-00003" summary="remove // in js2.js">
+      <created>1676984308972</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1676984308972</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,6 +105,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add task1" />
-    <option name="LAST_COMMIT_MESSAGE" value="add task1" />
+    <MESSAGE value="add homework2" />
+    <MESSAGE value="remove // in js2.js" />
+    <option name="LAST_COMMIT_MESSAGE" value="remove // in js2.js" />
   </component>
 </project>
