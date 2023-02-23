@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a5dd876-4a49-4cf3-9c87-9bd21eb837fb" name="Changes" comment="remove // in js2.js">
-      <change beforePath="$PROJECT_DIR$/lesson2/js2.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/js2.js" afterDir="false" />
+    <list default="true" id="1a5dd876-4a49-4cf3-9c87-9bd21eb837fb" name="Changes" comment="add //***** in js2.js">
+      <change afterPath="$PROJECT_DIR$/lesson3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/js3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -27,7 +29,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2LvaQuCTWC7WJgOwTre2GBwmAyB" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -74,7 +78,8 @@
       <updated>1676754000917</updated>
       <workItem from="1676754002132" duration="9197000" />
       <workItem from="1676976465576" duration="7520000" />
-      <workItem from="1676984136860" duration="459000" />
+      <workItem from="1676984136860" duration="716000" />
+      <workItem from="1677151494639" duration="6782000" />
     </task>
     <task id="LOCAL-00001" summary="add task1">
       <created>1676764420717</created>
@@ -97,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676984308972</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add //***** in js2.js">
+      <created>1676984730386</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1676984730386</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,6 +119,7 @@
     <MESSAGE value="add task1" />
     <MESSAGE value="add homework2" />
     <MESSAGE value="remove // in js2.js" />
-    <option name="LAST_COMMIT_MESSAGE" value="remove // in js2.js" />
+    <MESSAGE value="add //***** in js2.js" />
+    <option name="LAST_COMMIT_MESSAGE" value="add //***** in js2.js" />
   </component>
 </project>
