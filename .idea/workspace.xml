@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a5dd876-4a49-4cf3-9c87-9bd21eb837fb" name="Changes" comment="add homework3">
-      <change afterPath="$PROJECT_DIR$/lesson4/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4/js4.js" afterDir="false" />
+    <list default="true" id="1a5dd876-4a49-4cf3-9c87-9bd21eb837fb" name="Changes" comment="add homework4">
+      <change afterPath="$PROJECT_DIR$/lesson5/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson5/js5.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,27 +36,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/IdeaProjects/js/lesson4",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_interpreter_path": "node",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/IdeaProjects/js/lesson5&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IdeaProjects\js\lesson5" />
       <recent name="D:\IdeaProjects\js\lesson4" />
     </key>
   </component>
@@ -90,7 +91,9 @@
       <workItem from="1676976465576" duration="7520000" />
       <workItem from="1676984136860" duration="716000" />
       <workItem from="1677151494639" duration="7047000" />
-      <workItem from="1677410165824" duration="6888000" />
+      <workItem from="1677410165824" duration="8939000" />
+      <workItem from="1677671615127" duration="1487000" />
+      <workItem from="1677673128956" duration="16221000" />
     </task>
     <task id="LOCAL-00001" summary="add task1">
       <created>1676764420717</created>
@@ -127,7 +130,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677158483483</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add homework4">
+      <created>1677417364512</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1677417364512</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -150,6 +160,7 @@
     <MESSAGE value="remove // in js2.js" />
     <MESSAGE value="add //***** in js2.js" />
     <MESSAGE value="add homework3" />
-    <option name="LAST_COMMIT_MESSAGE" value="add homework3" />
+    <MESSAGE value="add homework4" />
+    <option name="LAST_COMMIT_MESSAGE" value="add homework4" />
   </component>
 </project>
